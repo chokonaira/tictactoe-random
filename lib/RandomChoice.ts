@@ -1,6 +1,4 @@
 import Board from 'tictactoe-board';
-import 'core-js/stable';
-import 'regenerator-runtime/runtime';
 
 class RandomChoice {
   findRandomMove(board: Board): number {
