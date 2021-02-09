@@ -1,9 +1,9 @@
 {
   "name": "tictactoe-random",
-  "version": "2.0.0",
+  "version": "1.4.0",
   "description": "A Tic Tac Toe Random Algorithm NPM module in typescript to find random index on a given board",
-  "main": "dist/Random.js",
-  "types": "dist/Random.d.ts",
+  "main": "dist/RandomChoice.js",
+  "types": "dist/RandomChoice.d.ts",
   "scripts": {
     "test": "jest lib/__test__",
     "build": "tsc",
