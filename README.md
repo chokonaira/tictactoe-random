@@ -26,7 +26,6 @@ A Tic Tac Toe Random Algorithm NPM module in typescript to find random index on 
 `import Board from 'tictactoe-board'`
 
 
-
 #### Intialize an instance object of the Random and Board 
 
 ```
@@ -50,7 +49,7 @@ instead of default grid = ['', '', '', '', '', '', '', '', '']
 
 ### `random.findRandomMove(board)`
 
-This returns the best winning index of the given board
+This returns a random index of the given board
 ```
 Example sceenerio:
 
