@@ -1,6 +1,6 @@
 ## Tic Tac Toe Random
 
-A Tic Tac Toe Random Algorithm NPM module in typescript to find random index on a given board 
+A Tic Tac Toe Random Algorithm NPM module in typescript to find random index of a given board 
 
 ![Node.js CI](https://github.com/chokonaira/tictactoe-minimax/workflows/Node.js%20CI/badge.svg)
 
